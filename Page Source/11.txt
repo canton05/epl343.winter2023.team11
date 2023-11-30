@@ -1,0 +1,323 @@
+
+<!DOCTYPE html>
+<html class="no-js  page-11 app-SERVICE-CATALOQUE187" lang="en" >
+<head>
+  <meta http-equiv="x-ua-compatible" content="IE=edge" />
+  <meta charset="utf-8">
+  <title>Application Management</title>
+  <base href="/ords203/" />
+<link rel="stylesheet" href="/images/app_ui/css/Core.min.css?v=21.2.0" type="text/css" />
+<link rel="stylesheet" href="/images/app_ui/css/Theme-Standard.min.css?v=21.2.0" type="text/css" />
+
+  <link rel="stylesheet" href="/images/libraries/font-apex/2.2.1/css/font-apex.min.css?v=21.2.0" type="text/css" />
+<link rel="stylesheet" href="/images/themes/theme_42/21.2/css/Core.min.css?v=21.2.0" type="text/css" />
+
+  
+  <link rel="stylesheet" href="/images/themes/theme_42/21.2/css/Vita.min.css?v=21.2.0" type="text/css" />
+
+  <link rel="stylesheet" href="ucydw/r/187/files/static/v3/app-icon.css?version=Release%201.0" type="text/css" />
+
+  <style type="text/css">
+/* Scroll Results Only in Side Column */
+.t-Body-side {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+.search-results {
+    flex: 1;
+    overflow: auto;
+}
+/* Format Search Region */
+.search-region {
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    flex-shrink: 0;
+}
+</style>
+
+  <link rel="icon" href="/images/favicon.ico">
+<link rel="apple-touch-icon" href="/images/favicon-180x180.png">
+  
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Expires" content="-1" /><meta http-equiv="Cache-Control" content="no-cache" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body class="t-PageBody t-PageBody--showLeft t-PageBody--hideActions no-anim t-PageTemplate--leftCol   apex-top-nav apex-icons-fontapex apex-theme-vita"   id="t_PageBody">
+<a href="#main" id="t_Body_skipToContent">Skip to Main Content</a>
+<form action="wwv_flow.accept?p_context=service-cataloque187/apllication-management/5228327135767" method="post" name="wwv_flow" id="wwvFlowForm" data-oj-binding-provider="none" novalidate >
+<input type="hidden" name="p_flow_id" value="187" id="pFlowId" /><input type="hidden" name="p_flow_step_id" value="11" id="pFlowStepId" /><input type="hidden" name="p_instance" value="5228327135767" id="pInstance" /><input type="hidden" name="p_page_submission_id" value="281626789368728522863516154545430300585" id="pPageSubmissionId" /><input type="hidden" name="p_request" value="" id="pRequest" /><input type="hidden" name="p_reload_on_submit" value="S" id="pReloadOnSubmit" /><input type="hidden" value="service-cataloque187&#x2F;apllication-management&#x2F;5228327135767" id="pContext" /><input type="hidden" value="281626789368728522863516154545430300585" id="pSalt" />
+<header class="t-Header" id="t_Header" role="banner">
+  
+  <div class="t-Header-branding">
+    <div class="t-Header-controls">
+      <button class="t-Button t-Button--icon t-Button--header t-Button--headerTree" aria-label="Main Navigation" title="Main Navigation" id="t_Button_navControl" type="button"><span class="t-Header-controlsIcon" aria-hidden="true"></span></button>
+    </div>
+    <div class="t-Header-logo">
+      <a href="&#x2F;ords203&#x2F;ucydw&#x2F;r&#x2F;service-cataloque187&#x2F;home?session=5228327135767" class="t-Header-logo-link"><span class="apex-logo-text">Service Cataloque</span></a>
+      
+    </div>
+    <div class="t-Header-navBar">
+      <div class="t-Header-navBar--start"></div>
+      <div class="t-Header-navBar--center"><ul class="t-NavigationBar lto220944584384465574_0" id="220944584384465574"><li class="t-NavigationBar-item has-username">
+  <button class="t-Button t-Button--icon t-Button t-Button--header t-Button--navBar js-menuButton" type="button" id="L220954771762465528" data-menu="menu_L220954771762465528" title="">
+      <span class="t-Icon fa&#x20;fa-user" aria-hidden="true" ></span><span class="t-Button-label">CANTON05</span><span class="t-Button-badge"></span><span class="a-Icon icon-down-arrow" aria-hidden="true"></span>
+  </button><div class="t-NavigationBar-menu" style="display: none" id="menu_L220954771762465528"><ul><li data-current="false" data-icon=""><a href="separator" title="">---</a></li><li data-current="false" data-icon="fa&#x20;fa-sign-out"><a href="apex_authentication.logout?p_app_id=187&p_session_id=5228327135767" title="">Sign Out</a></li></ul></div></li></ul></div>
+      <div class="t-Header-navBar--end"></div>
+    </div>
+  </div>
+  <div class="t-Header-nav"><div class="t-MegaMenu lto220757252049465689_0" id="t_MenuNav" style="display:none;">
+  <div class="a-Menu-content t-MegaMenu-container">
+    <div class="t-MegaMenu-body">
+    <ul class="t-MegaMenu-list t-MegaMenu-list--top"><li class="t-MegaMenu-item t-MegaMenu-item--top t-MegaMenu-item--hasSub " data-current="false" data-id="" data-shortcut="">
+  <span class="a-Menu-item t-MegaMenu-itemBody ">
+    <span class="t-Icon fa&#x20;fa-home"></span>
+    <a class="a-Menu-label t-MegaMenu-labelWrap" href="/ords203/ucydw/r/service-cataloque187/home?session=5228327135767" target="">
+      <span class="t-MegaMenu-label">Home</span>
+      <span class="t-MegaMenu-desc"></span>
+    </a>
+    <span class="t-MegaMenu-badge "></span>
+  </span>
+<ul class="t-MegaMenu-list t-MegaMenu-list--sub"><li class="t-MegaMenu-item is-active " data-current="true" data-id="" data-shortcut="">
+  <span class="a-Menu-item t-MegaMenu-itemBody ">
+    <span class="t-Icon "></span>
+    <a class="a-Menu-label t-MegaMenu-labelWrap" href="/ords203/ucydw/r/service-cataloque187/apllication-management?session=5228327135767" target="">
+      <span class="t-MegaMenu-label">Apllication Management</span>
+      <span class="t-MegaMenu-desc"></span>
+    </a>
+    <span class="t-MegaMenu-badge "></span>
+  </span>
+</li></ul></li><li class="t-MegaMenu-item t-MegaMenu-item--top t-MegaMenu-item--hasSub " data-current="false" data-id="" data-shortcut="">
+  <span class="a-Menu-item t-MegaMenu-itemBody ">
+    <span class="t-Icon "></span>
+    <a class="a-Menu-label t-MegaMenu-labelWrap" href="" target="">
+      <span class="t-MegaMenu-label">Administartion</span>
+      <span class="t-MegaMenu-desc"></span>
+    </a>
+    <span class="t-MegaMenu-badge "></span>
+  </span>
+<ul class="t-MegaMenu-list t-MegaMenu-list--sub"><li class="t-MegaMenu-item " data-current="false" data-id="" data-shortcut="">
+  <span class="a-Menu-item t-MegaMenu-itemBody ">
+    <span class="t-Icon "></span>
+    <a class="a-Menu-label t-MegaMenu-labelWrap" href="/ords203/ucydw/r/service-cataloque187/manage-user-roles?session=5228327135767" target="">
+      <span class="t-MegaMenu-label">Manage User Roles</span>
+      <span class="t-MegaMenu-desc"></span>
+    </a>
+    <span class="t-MegaMenu-badge "></span>
+  </span>
+</li><li class="t-MegaMenu-item " data-current="false" data-id="" data-shortcut="">
+  <span class="a-Menu-item t-MegaMenu-itemBody ">
+    <span class="t-Icon "></span>
+    <a class="a-Menu-label t-MegaMenu-labelWrap" href="/ords203/ucydw/r/service-cataloque187/manage-user-rights?session=5228327135767" target="">
+      <span class="t-MegaMenu-label">Manage User Rights</span>
+      <span class="t-MegaMenu-desc"></span>
+    </a>
+    <span class="t-MegaMenu-badge "></span>
+  </span>
+</li><li class="t-MegaMenu-item " data-current="false" data-id="" data-shortcut="">
+  <span class="a-Menu-item t-MegaMenu-itemBody ">
+    <span class="t-Icon "></span>
+    <a class="a-Menu-label t-MegaMenu-labelWrap" href="/ords203/ucydw/r/service-cataloque187/manage-gdpr-requirments?session=5228327135767" target="">
+      <span class="t-MegaMenu-label">Manage GDPR Requirments</span>
+      <span class="t-MegaMenu-desc"></span>
+    </a>
+    <span class="t-MegaMenu-badge "></span>
+  </span>
+</li><li class="t-MegaMenu-item " data-current="false" data-id="" data-shortcut="">
+  <span class="a-Menu-item t-MegaMenu-itemBody ">
+    <span class="t-Icon "></span>
+    <a class="a-Menu-label t-MegaMenu-labelWrap" href="/ords203/ucydw/r/service-cataloque187/manage-documents?session=5228327135767" target="">
+      <span class="t-MegaMenu-label">Manage Documents</span>
+      <span class="t-MegaMenu-desc"></span>
+    </a>
+    <span class="t-MegaMenu-badge "></span>
+  </span>
+</li></ul></li> </ul></div></div></div></div>
+</header>
+<div class="t-Body">
+  
+  <div class="t-Body-main">
+    <div class="t-Body-title" id="t_Body_title"><div role="region" aria-label="Application&#x20;Management" class="t-HeroRegion t-HeroRegion--hideIcon lto221462739789939324_0" id="R221462739789939324" >
+  <div class="t-HeroRegion-top">
+    <div class="t-HeroRegion-wrap">
+      <div class="t-HeroRegion-col t-HeroRegion-col--left"><span class="t-HeroRegion-icon t-Icon "></span></div>
+      <div class="t-HeroRegion-col t-HeroRegion-col--content">
+        <h1 class="t-HeroRegion-title" data-apex-heading>Application Management</h1>
+        
+      </div>
+      <div class="t-HeroRegion-col t-HeroRegion-col--right"><div class="t-HeroRegion-form"></div><div class="t-HeroRegion-buttons"><button class="t-Button t-Button--icon t-Button--noUI&#x20;t-Button--iconLeft&#x20;t-Button--gapRight&#x20;lto221463298253939324_0"  onclick="apex.navigation.redirect(&#x27;\u002Fords203\u002Fucydw\u002Fr\u002Fservice-cataloque187\u002Fapllication-management?request=RESET\u0026clear=RP,11\u0026session=5228327135767\u0026cs=3PaFLlzFQwGp4QZCKm-seXLBzc5mqqmjkznK4D9AH6AqDTd7a3s4Mr-5xy7VMYU67fL1RVaLjT2nLM5cI2VeIDg&#x27;);" type="button" id="B221463298253939324"><span class="t-Icon t-Icon--left fa&#x20;fa-undo-alt" aria-hidden="true"></span><span class="t-Button-label">Reset</span><span class="t-Icon t-Icon--right fa&#x20;fa-undo-alt" aria-hidden="true"></span></button><button class="t-Button t-Button--icon t-Button--iconLeft&#x20;lto221463687413939324_0 t-Button--hot"  onclick="javascript:apex.theme42.dialog(&#x27;\u002Fords203\u002Fucydw\u002Fr\u002Fservice-cataloque187\u002Fapplication-software?clear=RP,12\u0026session=5228327135767\u0026cs=3BV_AW-oz5jG2oNeppR8etUXMwb-yxkmoUQwfKs8Pd1EhUCq0Ti1bOdeFB3UXfx4JDm_M6VNxqtbNjPEjfAttig\u0026dialogCs=fJnq0AR5ZKjzfWGPDTDQfFDRcaQcyUHUWwqQ82_Abfj-zgx2J0tJjEFFKwdJeVNwnCRk7FhTKl6g_zLaL3O-cw&#x27;,{title:&#x27;Application Software&#x27;,h:&#x27;auto&#x27;,w:&#x27;720&#x27;,mxw:&#x27;960&#x27;,modal:true,dialog:null,dlgCls:&#x27;t-Dialog-page--standard &#x27;+&#x27;&#x27;},&#x27;&#x27;,apex.jQuery(&#x27;#B221463687413939324&#x27;))" type="button" id="B221463687413939324"><span class="t-Icon t-Icon--left fa&#x20;fa-plus" aria-hidden="true"></span><span class="t-Button-label">Create</span><span class="t-Icon t-Icon--right fa&#x20;fa-plus" aria-hidden="true"></span></button></div></div>
+    </div>
+  </div>
+  <div class="t-HeroRegion-bottom"></div>
+</div>
+</div>
+    <div class="t-Body-side" id="t_Body_side"><div id="R221463944623939324"  class="search-region padding-md  t-Form--stretchInputs lto221463944623939324_0"><div class="t-Form-fieldContainer t-Form-fieldContainer--hiddenLabel rel-col t-Form-fieldContainer--large t-Form-fieldContainer--postTextBlock lto221464402190939323_0 apex-item-wrapper apex-item-wrapper--text-field apex-item-wrapper--has-icon" id="P11_SEARCH_CONTAINER"><div class="t-Form-labelContainer t-Form-labelContainer--hiddenLabel col col-null">
+<label for="P11_SEARCH" id="P11_SEARCH_LABEL" class="t-Form-label u-VisuallyHidden">Search</label>
+</div><div class="t-Form-inputContainer col col-null"><div class="t-Form-itemWrapper"><input type="text"  id="P11_SEARCH" name="P11_SEARCH" placeholder="Search..." class="text_field&#x20;apex-item-text&#x20;apex-item-has-icon" value="" size="30"  /><span class="apex-item-icon fa&#x20;fa-search" aria-hidden="true"></span></div><span id="P11_SEARCH_error_placeholder" class="a-Form-error" data-template-id="220917410864465602_ET"></span></div></div></div><div id="R221464791799939322"  class="search-results  lto221464791799939322_0"><div id="report_221464791799939322_catch"><ul class="t-MediaList t-MediaList--showDesc t-MediaList--stack lto221464791799939322_1"  id="R221464791799939322_report" data-region-id="R221464791799939322">
+
+<li class="t-MediaList-item  ">
+  <a href="&#x2F;ords203&#x2F;ucydw&#x2F;r&#x2F;service-cataloque187&#x2F;apllication-management?p11_application_software_id=17&amp;session=5228327135767&amp;cs=3RcPQo2NHSArtf9saaFyrlSfQI1hcUufZktYOeg-1J-zmsKP1lOItpeqxP62m-RU2eSG5wL-IlXPYDt_XO0lb9Q" class="t-MediaList-itemWrap " >
+    <div class="t-MediaList-iconWrap" aria-hidden"true">
+      <span class="t-MediaList-icon u-color "><span class="t-Icon "></span></span>
+    </div>
+    <div class="t-MediaList-body">
+      <h3 class="t-MediaList-title">Test</h3>
+      <p class="t-MediaList-desc">canton05</p>
+    </div>
+    <div class="t-MediaList-badgeWrap">
+      <span class="t-MediaList-badge"></span>
+    </div>
+  </a>
+</li>
+
+<li class="t-MediaList-item  ">
+  <a href="&#x2F;ords203&#x2F;ucydw&#x2F;r&#x2F;service-cataloque187&#x2F;apllication-management?p11_application_software_id=18&amp;session=5228327135767&amp;cs=3LXU6leCaqRvr5fuZosWpxofmdXCh8zWA6cPKUIsOpB7TNCf060wRH5Qd2BoQB6NEsj1i5oLrhgssHbDcCJkSKw" class="t-MediaList-itemWrap " >
+    <div class="t-MediaList-iconWrap" aria-hidden"true">
+      <span class="t-MediaList-icon u-color "><span class="t-Icon "></span></span>
+    </div>
+    <div class="t-MediaList-body">
+      <h3 class="t-MediaList-title">maximo</h3>
+      <p class="t-MediaList-desc">fellouca</p>
+    </div>
+    <div class="t-MediaList-badgeWrap">
+      <span class="t-MediaList-badge"></span>
+    </div>
+  </a>
+</li>
+
+</ul>
+<table class="t-Report-pagination" role="presentation"></table></div></div></div>
+    <div class="t-Body-content" id="t_Body_content">
+      <main class="t-Body-mainContent" id="main">
+        <span id="APEX_SUCCESS_MESSAGE" data-template-id="220769796027465667_S" class="apex-page-success u-hidden"></span><span id="APEX_ERROR_MESSAGE" data-template-id="220769796027465667_E" class="apex-page-error u-hidden"></span>
+        <div class="t-Body-fullContent"></div>
+        <div class="t-Body-contentInner"><div class="container">
+<div class="row ">
+<div class="col col-12 apex-col-auto col-start col-end" ><div id="R221552751953939240"  class="lto221552751953939240_0">No Record Selected</div></div>
+</div>
+</div></div>
+      </main>
+      <footer class="t-Footer" id="t_Footer" role="contentinfo">
+        <div class="t-Footer-body">
+          <div class="t-Footer-content"></div>
+          <div class="t-Footer-apex">
+            <div class="t-Footer-version">Release 1.0</div>
+            <div class="t-Footer-customize"></div>
+            
+          </div>
+        </div>
+        <div class="t-Footer-top">
+          <a href="#top" class="t-Footer-topButton" id="t_Footer_topButton"><span class="a-Icon icon-up-chevron"></span></a>
+        </div>
+      </footer>
+    </div>
+  </div>
+</div>
+<div class="t-Body-inlineDialogs" id="t_Body_inlineDialogs"></div><input type="hidden" id="pPageFormRegionChecksums" value="&#x5B;&#x5D;">
+<input type="hidden" id="pPageItemsRowVersion" value="" /><input type="hidden" id="pPageItemsProtected" value="&#x2F;Gtyv0pPz3BrxwNqwaByR_rkOFDCdCW_CiIOfSR4u0NLTRsNUWh_fWKd7D9J2Jhk_wLY356asnseQmXlTAvcosA" /></form>
+<div id="apexDevToolbar" class="a-DevToolbar a-DevToolbar--bottom" style="display:none"><h1 class="u-VisuallyHidden">Developer Toolbar</h1><ul class="a-DevToolbar-list">
+<li><button id="apexDevToolbarHome" type="button" class="a-Button a-Button--devToolbar" title="Oracle APEX Home" aria-label="Home" data-link="f?p=4500:1000:4697528504785">
+<span class="a-Icon icon-home" aria-hidden="true"></span>
+<span class="a-DevToolbar-buttonLabel">Home</span>
+</button></li>
+<li><button id="apexDevToolbarApp" type="button" class="a-Button a-Button--devToolbar" title="App 187" aria-label="App 187" data-link="f?p=4000:1:4697528504785::NO:1,RP:FB_FLOW_ID,FB_FLOW_PAGE_ID,F4000_P1_FLOW,F4000_P1_PAGE:187,11,187,11">
+<span class="a-Icon icon-edit-app" aria-hidden="true"></span>
+<span class="a-DevToolbar-buttonLabel">App 187</span>
+</button></li>
+<li><button id="apexDevToolbarPage" type="button" class="a-Button a-Button--devToolbar" title="Page 11" aria-label="Page 11" data-link="f?p=4000:4500:4697528504785::NO:1:FB_FLOW_ID,FB_FLOW_PAGE_ID,F4000_P1_FLOW,F4000_P1_PAGE:187,11,187,11">
+<span class="a-Icon icon-edit-page-alt" aria-hidden="true"></span>
+<span class="a-DevToolbar-buttonLabel">Page 11</span>
+</button></li>
+<li><button id="apexDevToolbarSession" type="button" class="a-Button a-Button--devToolbar" title="Session" aria-label="Session" data-link="f?p=4000:34:4697528504785:PAGE:NO:34:F4000_P34_SESSION,F4000_P34_FLOW,F4000_P34_PAGE,FB_FLOW_ID:5228327135767,187,11,187">
+<span class="a-Icon icon-page-session" aria-hidden="true"></span>
+<span class="a-DevToolbar-buttonLabel">Session</span>
+</button></li>
+<li><button id="apexDevToolbarViewDebug" type="button" class="a-Button a-Button--devToolbar" title="View Debug" aria-label="View Debug" data-link="f?p=4000:19:4697528504785:::RIR,19:IR_APPLICATION_ID,IR_PAGE_ID:187,11">
+<span class="a-Icon icon-page-debug" aria-hidden="true"></span>
+<span class="a-DevToolbar-buttonLabel">View Debug</span>
+</button></li>
+<li><button id="apexDevToolbarDebug" type="button" class="a-Button a-Button--devToolbar" title="Debug" aria-label="Debug" data-link="/ords203/ucydw/r/service-cataloque187/apllication-management?debug=YES&session=5228327135767">
+<span class="a-Icon icon-debug" aria-hidden="true"></span>
+<span class="a-DevToolbar-buttonLabel">Debug</span>
+</button></li>
+<li><button id="apexDevToolbarInfo" type="button" class="a-Button a-Button--devToolbar js-menuButton" title="Info" aria-label="Info" data-menu="apexDevToolbarInfoMenu">
+<span class="a-Icon icon-info" aria-hidden="true"></span>
+<span class="a-DevToolbar-buttonLabel">Info</span>
+</button></li>
+<li><button id="apexDevToolbarQuickEdit" type="button" class="a-Button a-Button--devToolbar" title="Quick Edit" aria-label="Quick Edit" data-link="f?p=4000:4500:4697528504785::NO:1,4500:FB_FLOW_ID,FB_FLOW_PAGE_ID,F4000_P1_FLOW,F4000_P1_PAGE:187,11,187,11">
+<span class="a-Icon icon-quick-edit" aria-hidden="true"></span>
+<span class="a-DevToolbar-buttonLabel">Quick Edit</span>
+</button></li>
+<li><button id="apexDevCustomize" type="button" class="a-Button a-Button--devToolbar js-menuButton" title="Customize" aria-label="Customize" data-menu="apexDevCustomizeMenu">
+<span class="a-Icon icon-theme-roller" aria-hidden="true"></span>
+<span class="a-DevToolbar-buttonLabel">Customize</span>
+</button></li>
+<li><button id="apexDevToolbarOptions" type="button" class="a-Button a-Button--devToolbar js-menuButton" title="Developer Toolbar Options" aria-label="Developer Toolbar Options" data-menu="apexDevToolbarOptionsMenu">
+<span class="a-Icon icon-gear" aria-hidden="true"></span>
+</button></li>
+</ul></div><div id="apexDevCustomizeMenu"></div><div id="apexDevToolbarOptionsMenu"></div><div id="apexDevToolbarInfoMenu"></div>
+
+
+<script>
+var apex_img_dir = "\u002Fimages\u002F";
+var apex = {env: {APP_USER: "CANTON05",APP_ID: "187",APP_PAGE_ID: "11",APP_SESSION: "5228327135767",APP_FILES: "ucydw\u002Fr\u002F187\u002Ffiles\u002Fstatic\u002Fv3\u002F",WORKSPACE_FILES: "ucydw\u002Fr\u002Ffiles\u002Fstatic\u002Fv1\u002F",APEX_VERSION: "21.2.0"}};
+</script>
+<script src="/images/libraries/apex/minified/desktop_all.min.js?v=21.2.0"></script>
+<script src="wwv_flow.js_messages?p_app_id=187&p_lang=en&p_version=21.2.0-19866033447&p_builder=Y"></script>
+
+<script type="text/javascript">
+apex.da.initDaEventList = function(){
+apex.da.gEventList = [
+{"triggeringElementType":"REGION","triggeringRegionId":"R221469458582939305","bindType":"bind","bindEventType":"apexafterclosedialog","anyActionsFireOnInit":false,actionList:[{"eventResult":true,"executeOnPageInit":false,"stopExecutionOnError":true,"affectedElementsType":"REGION","affectedRegionId":"R221469458582939305",javascriptFunction:apex.da.refresh,"action":"NATIVE_REFRESH"},{"eventResult":true,"executeOnPageInit":false,"stopExecutionOnError":true,javascriptFunction:function (){ apex.message.showPageSuccess('Application Software row(s) updated.');
+},"action":"NATIVE_JAVASCRIPT_CODE"}]},
+{"triggeringElementType":"REGION","triggeringRegionId":"R221478268480939294","bindType":"bind","bindEventType":"apexafterclosedialog","anyActionsFireOnInit":false,actionList:[{"eventResult":true,"executeOnPageInit":false,"stopExecutionOnError":true,"affectedElementsType":"REGION","affectedRegionId":"R221478268480939294",javascriptFunction:apex.da.refresh,"action":"NATIVE_REFRESH"},{"eventResult":true,"executeOnPageInit":false,"stopExecutionOnError":true,javascriptFunction:function (){ apex.message.showPageSuccess('Application Software Technical Info row(s) updated.');
+},"action":"NATIVE_JAVASCRIPT_CODE"}]},
+{"triggeringElementType":"REGION","triggeringRegionId":"R221496544358939279","bindType":"bind","bindEventType":"apexafterclosedialog","anyActionsFireOnInit":false,actionList:[{"eventResult":true,"executeOnPageInit":false,"stopExecutionOnError":true,"affectedElementsType":"REGION","affectedRegionId":"R221496544358939279",javascriptFunction:apex.da.refresh,"action":"NATIVE_REFRESH"},{"eventResult":true,"executeOnPageInit":false,"stopExecutionOnError":true,javascriptFunction:function (){ apex.message.showPageSuccess('Application Software Documents row(s) updated.');
+},"action":"NATIVE_JAVASCRIPT_CODE"}]},
+{"triggeringElementType":"REGION","triggeringRegionId":"R221516238392939266","bindType":"bind","bindEventType":"apexafterclosedialog","anyActionsFireOnInit":false,actionList:[{"eventResult":true,"executeOnPageInit":false,"stopExecutionOnError":true,"affectedElementsType":"REGION","affectedRegionId":"R221516238392939266",javascriptFunction:apex.da.refresh,"action":"NATIVE_REFRESH"},{"eventResult":true,"executeOnPageInit":false,"stopExecutionOnError":true,javascriptFunction:function (){ apex.message.showPageSuccess('Application Software Access row(s) updated.');
+},"action":"NATIVE_JAVASCRIPT_CODE"}]},
+{"triggeringElementType":"REGION","triggeringRegionId":"R221533152850939254","bindType":"bind","bindEventType":"apexafterclosedialog","anyActionsFireOnInit":false,actionList:[{"eventResult":true,"executeOnPageInit":false,"stopExecutionOnError":true,"affectedElementsType":"REGION","affectedRegionId":"R221533152850939254",javascriptFunction:apex.da.refresh,"action":"NATIVE_REFRESH"},{"eventResult":true,"executeOnPageInit":false,"stopExecutionOnError":true,javascriptFunction:function (){ apex.message.showPageSuccess('Application Software Gdpr Compliance Checklist row(s) updated.');
+},"action":"NATIVE_JAVASCRIPT_CODE"}]},
+{"triggeringElementType":"REGION","triggeringRegionId":"R217118666395089985","bindType":"bind","bindEventType":"apexafterclosedialog","anyActionsFireOnInit":false,actionList:[{"eventResult":true,"executeOnPageInit":false,"stopExecutionOnError":true,"affectedElementsType":"REGION","affectedRegionId":"R217118666395089985",javascriptFunction:apex.da.refresh,"action":"NATIVE_REFRESH"},{"eventResult":true,"executeOnPageInit":false,"stopExecutionOnError":true,javascriptFunction:function (){ apex.message.showPageSuccess('Application Software Gdpr User Compliance Checklist row(s) updated.');
+},"action":"NATIVE_JAVASCRIPT_CODE"}]},
+{"triggeringElementType":"ITEM","triggeringElement":"P11_SEARCH","triggeringConditionType":"JAVASCRIPT_EXPRESSION","triggeringConditionExpression": function() {
+return (this.browserEvent.which === apex.jQuery.ui.keyCode.ENTER
+); },"bindType":"bind","bindEventType":"keypress","anyActionsFireOnInit":false,actionList:[{"eventResult":true,"executeOnPageInit":false,"stopExecutionOnError":true,"affectedElementsType":"REGION","affectedRegionId":"R221464791799939322",javascriptFunction:apex.da.refresh,"action":"NATIVE_REFRESH"},{"eventResult":true,"executeOnPageInit":false,"stopExecutionOnError":true,javascriptFunction:apex.da.cancelEvent,"action":"NATIVE_CANCEL_EVENT"}]}];
+}
+</script>
+
+<script src="/images/libraries/apex/minified/widget.stickyWidget.min.js?v=21.2.0"></script>
+<script src="/images/themes/theme_42/21.2/js/theme42.min.js?v=21.2.0"></script>
+
+
+
+  
+
+
+<script src="/images/libraries/apex/minified/widget.report.min.js?v=21.2.0"></script>
+<script src="/images/apex_ui/js/minified/devToolbar.min.js?v=21.2.0"></script>
+
+
+<script type="text/javascript">
+apex.session.initTimeouts(180,{"idle_time_ms":3598000.00000000000000000000000000000001,"life_time_ms":27866000,"max_idle_time_ms":3600000},'\u002Fords203\u002Fucydw\u002Fr\u002Fservice-cataloque187\u002Fhome','\u002Fords203\u002Fucydw\u002Fr\u002Fservice-cataloque187\u002Fhome');
+apex.jQuery( function() {
+apex.page.init( this, function() {
+try {
+(function(){apex.widget.report.init("R221464791799939322","UkVHSU9OIFRZUEV-fjIyMTQ2NDc5MTc5OTkzOTMyMg\u002FehNjFEek5zgPmsp7AxCWl3g9SZ7A1weZPqGysbdy-phSqvmmZc_0MY9rvzKvKsGSYpeLmKI0jqTzZGeN99wRGA",{"pageItems":"#P11_SEARCH","lazyLoading":false,"internalRegionId":"221464791799939322"});})();
+} catch(e) {apex.debug.error(e)};
+apex.initDevToolbar([{"pageId":"11","typeId":"5110","id":"221462739789939324","domId":"R221462739789939324"},{"pageId":"11","typeId":"5130","id":"221463298253939324","domId":"B221463298253939324"},{"pageId":"11","typeId":"5130","id":"221463687413939324","domId":"B221463687413939324"},{"pageId":"11","typeId":"5110","id":"221463944623939324","domId":"R221463944623939324"},{"pageId":"11","typeId":"5120","id":"221464402190939323","domId":"P11_SEARCH"},{"pageId":"11","typeId":"5110","id":"221464791799939322","domId":"R221464791799939322"},{"pageId":"11","typeId":"7320","id":"221465449914939318","domId":"APPLICATION_SOFTWARE_ID"},{"pageId":"11","typeId":"7320","id":"221465923721939317","domId":"LINK_CLASS"},{"pageId":"11","typeId":"7320","id":"221466253921939317","domId":"LINK"},{"pageId":"11","typeId":"7320","id":"221466641115939316","domId":"ICON_CLASS"},{"pageId":"11","typeId":"7320","id":"221467039057939316","domId":"LINK_ATTR"},{"pageId":"11","typeId":"7320","id":"221467435137939316","domId":"ICON_COLOR_CLASS"},{"pageId":"11","typeId":"7320","id":"221467862035939316","domId":"LIST_CLASS"},{"pageId":"11","typeId":"7320","id":"221468271428939316","domId":"LIST_TITLE"},{"pageId":"11","typeId":"7320","id":"221468710511939315","domId":"LIST_TEXT"},{"pageId":"11","typeId":"7320","id":"221469098858939315","domId":"LIST_BADGE"},{"pageId":"11","typeId":"5110","id":"221552751953939240","domId":"R221552751953939240"}],"FOCUS",{"autoHide":"Auto Hide","iconsOnly":"Show Icons Only","noBuilderMessage":"This functionality requires the Application Express App Builder window to be open. Do you want to open the Builder in this window?","showPerf":"Show Page Timing","perfTitle":"Page Performance Timing","clear":"Clear","copy":"Copy","gridDebugOn":"Show Layout Columns","gridDebugOff":"Hide Layout Columns","debugLevel":"Default Debug Level","debugLevel4":"Info (default)","debugLevel6":"App Trace","debugLevel9":"Full Trace","debugButtonLabel":"Debug (\u00250)","logoEditor":"Edit Logo","themeRoller":"Theme Roller","display":"Display Position","displayTop":"Top","displayLeft":"Left","displayBottom":"Bottom","displayRight":"Right"},42);
+apex.jQuery.when.apply( apex.jQuery, apex.page.loadingDeferreds ).done(function() {
+try {
+(function(){apex.da.initDaEventList();
+apex.da.init();})();
+apex.theme42.initializePage.leftSideCol();
+
+} finally {
+apex.event.trigger(apex.gPageContext$,'apexreadyend');
+};
+});
+});
+});apex.pwa.registerServiceWorker('\u002Fords203\u002Fucydw\u002Fr\u002Fservice-cataloque187\u002Fsw.js?v=21.2.0-19866033447\u0026lang=en');
+</script>
+
+</body>
+</html>

@@ -1,0 +1,286 @@
+
+<!DOCTYPE html>
+<html class="no-js  page-5 app-SERVICE-CATALOQUE187" lang="en" >
+<head>
+  <meta http-equiv="x-ua-compatible" content="IE=edge" />
+  <meta charset="utf-8">
+  <title>Manage User Rights</title>
+  <base href="/ords203/" />
+<link rel="stylesheet" href="/images/libraries/oraclejet/11.0.0/css/libs/oj/v11.0.0/redwood/oj-redwood-notag-min.css?v=21.2.0" type="text/css" />
+<link rel="stylesheet" href="/images/app_ui/css/Core.min.css?v=21.2.0" type="text/css" />
+<link rel="stylesheet" href="/images/app_ui/css/Theme-Standard.min.css?v=21.2.0" type="text/css" />
+
+  <link rel="stylesheet" href="/images/libraries/font-apex/2.2.1/css/font-apex.min.css?v=21.2.0" type="text/css" />
+<link rel="stylesheet" href="/images/themes/theme_42/21.2/css/Core.min.css?v=21.2.0" type="text/css" />
+
+  
+  <link rel="stylesheet" href="/images/themes/theme_42/21.2/css/Vita.min.css?v=21.2.0" type="text/css" />
+
+  <link rel="stylesheet" href="ucydw/r/187/files/static/v3/app-icon.css?version=Release%201.0" type="text/css" />
+
+  
+  <link rel="icon" href="/images/favicon.ico">
+<link rel="apple-touch-icon" href="/images/favicon-180x180.png">
+  
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Expires" content="-1" /><meta http-equiv="Cache-Control" content="no-cache" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body class="t-PageBody t-PageBody--hideLeft t-PageBody--hideActions no-anim t-PageTemplate--standard   apex-top-nav apex-icons-fontapex apex-theme-vita"   id="t_PageBody">
+<a href="#main" id="t_Body_skipToContent">Skip to Main Content</a>
+<form action="wwv_flow.accept?p_context=service-cataloque187/manage-user-rights/5228327135767" method="post" name="wwv_flow" id="wwvFlowForm" data-oj-binding-provider="none" novalidate  autocomplete="off">
+<input type="hidden" name="p_flow_id" value="187" id="pFlowId" /><input type="hidden" name="p_flow_step_id" value="5" id="pFlowStepId" /><input type="hidden" name="p_instance" value="5228327135767" id="pInstance" /><input type="hidden" name="p_page_submission_id" value="104150561287217471454418154060926000949" id="pPageSubmissionId" /><input type="hidden" name="p_request" value="" id="pRequest" /><input type="hidden" name="p_reload_on_submit" value="S" id="pReloadOnSubmit" /><input type="hidden" value="service-cataloque187&#x2F;manage-user-rights&#x2F;5228327135767" id="pContext" /><input type="hidden" value="104150561287217471454418154060926000949" id="pSalt" />
+<header class="t-Header" id="t_Header" role="banner">
+  
+  <div class="t-Header-branding">
+    <div class="t-Header-controls">
+      <button class="t-Button t-Button--icon t-Button--header t-Button--headerTree" aria-label="Main Navigation" title="Main Navigation" id="t_Button_navControl" type="button"><span class="t-Header-controlsIcon" aria-hidden="true"></span></button>
+    </div>
+    <div class="t-Header-logo">
+      <a href="&#x2F;ords203&#x2F;ucydw&#x2F;r&#x2F;service-cataloque187&#x2F;home?session=5228327135767" class="t-Header-logo-link"><span class="apex-logo-text">Service Cataloque</span></a>
+      
+    </div>
+    <div class="t-Header-navBar">
+      <div class="t-Header-navBar--start"></div>
+      <div class="t-Header-navBar--center"><ul class="t-NavigationBar lto220944584384465574_0" id="220944584384465574"><li class="t-NavigationBar-item has-username">
+  <button class="t-Button t-Button--icon t-Button t-Button--header t-Button--navBar js-menuButton" type="button" id="L220954771762465528" data-menu="menu_L220954771762465528" title="">
+      <span class="t-Icon fa&#x20;fa-user" aria-hidden="true" ></span><span class="t-Button-label">CANTON05</span><span class="t-Button-badge"></span><span class="a-Icon icon-down-arrow" aria-hidden="true"></span>
+  </button><div class="t-NavigationBar-menu" style="display: none" id="menu_L220954771762465528"><ul><li data-current="false" data-icon=""><a href="separator" title="">---</a></li><li data-current="false" data-icon="fa&#x20;fa-sign-out"><a href="apex_authentication.logout?p_app_id=187&p_session_id=5228327135767" title="">Sign Out</a></li></ul></div></li></ul></div>
+      <div class="t-Header-navBar--end"></div>
+    </div>
+  </div>
+  <div class="t-Header-nav"><div class="t-MegaMenu lto220757252049465689_0" id="t_MenuNav" style="display:none;">
+  <div class="a-Menu-content t-MegaMenu-container">
+    <div class="t-MegaMenu-body">
+    <ul class="t-MegaMenu-list t-MegaMenu-list--top"><li class="t-MegaMenu-item t-MegaMenu-item--top t-MegaMenu-item--hasSub " data-current="false" data-id="" data-shortcut="">
+  <span class="a-Menu-item t-MegaMenu-itemBody ">
+    <span class="t-Icon fa&#x20;fa-home"></span>
+    <a class="a-Menu-label t-MegaMenu-labelWrap" href="/ords203/ucydw/r/service-cataloque187/home?session=5228327135767" target="">
+      <span class="t-MegaMenu-label">Home</span>
+      <span class="t-MegaMenu-desc"></span>
+    </a>
+    <span class="t-MegaMenu-badge "></span>
+  </span>
+<ul class="t-MegaMenu-list t-MegaMenu-list--sub"><li class="t-MegaMenu-item " data-current="false" data-id="" data-shortcut="">
+  <span class="a-Menu-item t-MegaMenu-itemBody ">
+    <span class="t-Icon "></span>
+    <a class="a-Menu-label t-MegaMenu-labelWrap" href="/ords203/ucydw/r/service-cataloque187/apllication-management?session=5228327135767" target="">
+      <span class="t-MegaMenu-label">Apllication Management</span>
+      <span class="t-MegaMenu-desc"></span>
+    </a>
+    <span class="t-MegaMenu-badge "></span>
+  </span>
+</li></ul></li><li class="t-MegaMenu-item t-MegaMenu-item--top t-MegaMenu-item--hasSub " data-current="false" data-id="" data-shortcut="">
+  <span class="a-Menu-item t-MegaMenu-itemBody ">
+    <span class="t-Icon "></span>
+    <a class="a-Menu-label t-MegaMenu-labelWrap" href="" target="">
+      <span class="t-MegaMenu-label">Administartion</span>
+      <span class="t-MegaMenu-desc"></span>
+    </a>
+    <span class="t-MegaMenu-badge "></span>
+  </span>
+<ul class="t-MegaMenu-list t-MegaMenu-list--sub"><li class="t-MegaMenu-item " data-current="false" data-id="" data-shortcut="">
+  <span class="a-Menu-item t-MegaMenu-itemBody ">
+    <span class="t-Icon "></span>
+    <a class="a-Menu-label t-MegaMenu-labelWrap" href="/ords203/ucydw/r/service-cataloque187/manage-user-roles?session=5228327135767" target="">
+      <span class="t-MegaMenu-label">Manage User Roles</span>
+      <span class="t-MegaMenu-desc"></span>
+    </a>
+    <span class="t-MegaMenu-badge "></span>
+  </span>
+</li><li class="t-MegaMenu-item is-active " data-current="true" data-id="" data-shortcut="">
+  <span class="a-Menu-item t-MegaMenu-itemBody ">
+    <span class="t-Icon "></span>
+    <a class="a-Menu-label t-MegaMenu-labelWrap" href="/ords203/ucydw/r/service-cataloque187/manage-user-rights?session=5228327135767" target="">
+      <span class="t-MegaMenu-label">Manage User Rights</span>
+      <span class="t-MegaMenu-desc"></span>
+    </a>
+    <span class="t-MegaMenu-badge "></span>
+  </span>
+</li><li class="t-MegaMenu-item " data-current="false" data-id="" data-shortcut="">
+  <span class="a-Menu-item t-MegaMenu-itemBody ">
+    <span class="t-Icon "></span>
+    <a class="a-Menu-label t-MegaMenu-labelWrap" href="/ords203/ucydw/r/service-cataloque187/manage-gdpr-requirments?session=5228327135767" target="">
+      <span class="t-MegaMenu-label">Manage GDPR Requirments</span>
+      <span class="t-MegaMenu-desc"></span>
+    </a>
+    <span class="t-MegaMenu-badge "></span>
+  </span>
+</li><li class="t-MegaMenu-item " data-current="false" data-id="" data-shortcut="">
+  <span class="a-Menu-item t-MegaMenu-itemBody ">
+    <span class="t-Icon "></span>
+    <a class="a-Menu-label t-MegaMenu-labelWrap" href="/ords203/ucydw/r/service-cataloque187/manage-documents?session=5228327135767" target="">
+      <span class="t-MegaMenu-label">Manage Documents</span>
+      <span class="t-MegaMenu-desc"></span>
+    </a>
+    <span class="t-MegaMenu-badge "></span>
+  </span>
+</li></ul></li> </ul></div></div></div></div>
+</header>
+<div class="t-Body">
+  
+  <div class="t-Body-main">
+    <div class="t-Body-title" id="t_Body_title"></div>
+    <div class="t-Body-content" id="t_Body_content">
+      <main id="main" class="t-Body-mainContent">
+        <span id="APEX_SUCCESS_MESSAGE" data-template-id="220784549724465662_S" class="apex-page-success u-hidden"></span><span id="APEX_ERROR_MESSAGE" data-template-id="220784549724465662_E" class="apex-page-error u-hidden"></span>
+        <div class="t-Body-fullContent"></div>
+        <div class="t-Body-contentInner"><div class="container">
+<div class="row ">
+<div class="col col-12 apex-col-auto col-start col-end" ><div role="region" aria-label="Report&#x20;1" id="R220973880553364980"  class="t-IRR-region lto220973880553364980_0"><div id="R220973880553364980_ir" class="a-IRR-container"><div id="R220973880553364980_worksheet_region" class="a-IRR" aria-live="polite"><div id="R220973880553364980_single_row_view" class="a-IRR-singleRowView"></div><div id="R220973880553364980_full_view" class="a-IRR-fullView"><div id="R220973880553364980_actions_menu"></div><div id="R220973880553364980_column_search_drop" class="a-IRR-colSearch"></div><div id="R220973880553364980_toolbar" class="a-IRR-toolbar"><div id="R220973880553364980_toolbar_controls" class="a-IRR-controls"><div class="a-IRR-controlGroup a-IRR-controlGroup--search"><div class="a-IRR-search"><input type="hidden" id="R220973880553364980_column_search_current_column" /><div class="a-IRR-colSelector"><button id="R220973880553364980_column_search_root" data-menu="R220973880553364980_column_search_drop" class="a-Button a-IRR-button a-IRR-button--colSearch js-menuButton a-Button--withIcon a-Button--noLabel" title="Select columns to search" aria-label="Select columns to search" type="button"><span class="a-Icon icon-search" aria-hidden="true"></span><span class="a-Icon icon-menu-drop-down" aria-hidden="true"></span></button></div><div class="a-IRR-searchFieldContainer"><input class="a-IRR-search-field" id="R220973880553364980_search_field" title="Search Report" type="search" size="30" maxlength="4000" value="" /></div><div class="a-IRR-searchButtonContainer"><button id="R220973880553364980_search_button" class="a-Button a-IRR-button a-IRR-button--search" type="button"  ><span>Go</span></button></div></div></div><div class="a-IRR-controlGroup a-IRR-controlGroup--views"></div><div class="a-IRR-controlGroup a-IRR-controlGroup--options"><input type="hidden" id="R220973880553364980_row_select" value="50" /><div class="a-IRR-actions"><button id="R220973880553364980_actions_button" class="a-Button a-IRR-button a-IRR-button--actions js-menuButton" type="button" data-menu="R220973880553364980_actions_menu">Actions<span class="a-Icon icon-menu-drop-down"></span></button></div></div></div><div class="a-IRR-buttons"><button onclick="apex.navigation.redirect(&#x27;\u002Fords203\u002Fucydw\u002Fr\u002Fservice-cataloque187\u002Fadd-user-right?clear=6\u0026session=5228327135767\u0026cs=3Q_xEao1k4cpVmSPiGbCH_4AWUcsMl6Wt9S3IMmCMOj7gvmUfWjrzZTNU8JCxcPmPggPlMnEWrXwP4BYVG8NkIg&#x27;);" class="t-Button t-Button--hot js-ignoreChange&#x20;lto220976358006364975_0" type="button"  id="B220976358006364975"><span class="t-Button-label">Create</span></button></div></div><div id="R220973880553364980_content" class="a-IRR-content"><div id="R220973880553364980_dialog_js" class="a-IRR-dialogBody" style="display:none"></div><input type="hidden" id="R220973880553364980_worksheet_id" value="220974251901364980" />
+<input type="hidden" id="R220973880553364980_app_user" value="CANTON05" />
+<input type="hidden" id="R220973880553364980_report_id" value="221008761389055717" />
+<input type="hidden" id="R220973880553364980_view_mode" value="REPORT" />
+<style id="R220973880553364980_worksheet_css" type="text/css">
+</style>
+<div id="R220973880553364980_chart" class="a-IRR-chartView"></div><div id="R220973880553364980_group_by" class="a-IRR-groupByView"></div><div id="R220973880553364980_pivot" class="a-IRR-pivotView"></div><div id="R220973880553364980_data_panel" class="a-IRR-reportView"><div class="a-IRR-tableContainer"><table aria-label="Region = Report 1, Report = Primary Default, View = Report, Displayed Rows Start = 1, Displayed Rows End = 8" class="a-IRR-table" id="220974251901364980">
+<tr><th class="a-IRR-header u-tL" id="LINK"><span class="hideMeButHearMe">Link</span></th><th class="a-IRR-header u-tL" id="C220974758717364979"><a class="a-IRR-headerLink" data-column="220974758717364979" href="#">Application Software Gdpr CUSTOMER Rights Name</a></th><th class="a-IRR-header u-tL" id="C220975156503364979"><a class="a-IRR-headerLink" data-column="220975156503364979" href="#">Application Software Gdpr CUSTOMER Rights Description</a></th></tr>
+<tr ><td headers="LINK"><a href="&#x2F;ords203&#x2F;ucydw&#x2F;r&#x2F;service-cataloque187&#x2F;add-user-right&#x3F;p6_application_software_gdpr_user_rights_id&#x3D;1&#x26;clear&#x3D;RP&#x26;session&#x3D;5228327135767&#x26;cs&#x3D;37jkuEPv7xq55amJJczZKyqp_81sYcAfO2EkQv0U6Ma-JowUF0fdHljjZ5EAv_ERKVsXqLfQiCJxg-bkD8IEwbw" ><span aria-label="Edit"><span class="fa fa-edit" aria-hidden="true" title="Edit"></span></span></a></td><td class=" u-tL" headers="C220974758717364979">Right to be informed &#x2F; Δικαίωμα ενημέρωσης&#x2F;</td><td class=" u-tL" headers="C220975156503364979">Δικαίωμα ενημέρωσης: Τα άτομα έχουν ενημερωθεί για τη συλλογή και χρήση των προσωπικών τους δεδομένων
+
+Right to be informed: **Individuals have informed about the collection and use of their personal data**</td></tr><tr ><td headers="LINK"><a href="&#x2F;ords203&#x2F;ucydw&#x2F;r&#x2F;service-cataloque187&#x2F;add-user-right&#x3F;p6_application_software_gdpr_user_rights_id&#x3D;2&#x26;clear&#x3D;RP&#x26;session&#x3D;5228327135767&#x26;cs&#x3D;3n7xuPyuliOt09hkKt6-vTsRB2HAvTLpVyRwnHdzY8R4tkkg30w7A9UA7eaV_IxRBfy7UVN2tzxyi7hu4xxr98Q" ><span aria-label="Edit"><span class="fa fa-edit" aria-hidden="true" title="Edit"></span></span></a></td><td class=" u-tL" headers="C220974758717364979">Right to Access &#x2F; Δικαίωμα πρόσβασης</td><td class=" u-tL" headers="C220975156503364979">Δικαίωμα πρόσβασης: Εχουν δοθεί στα άτομα επαρκείς, διαφανείς και εύκολα προσβάσιμες πληροφορίες σχετικά με την επεξεργασία των προσωπικών τους δεδομένων
+
+Right to Access: **Individuals were given sufficient, transparent and easily accessible information about the processing of their personal data**</td></tr><tr ><td headers="LINK"><a href="&#x2F;ords203&#x2F;ucydw&#x2F;r&#x2F;service-cataloque187&#x2F;add-user-right&#x3F;p6_application_software_gdpr_user_rights_id&#x3D;3&#x26;clear&#x3D;RP&#x26;session&#x3D;5228327135767&#x26;cs&#x3D;30_Ny0j3299KbQLJYzt8MAg_Ze3wcsVdcKHjgljkOrbUgfw-KrdVRODgsDcpIdSTBMOXjudBkL7XK4bOv9-Vq1w" ><span aria-label="Edit"><span class="fa fa-edit" aria-hidden="true" title="Edit"></span></span></a></td><td class=" u-tL" headers="C220974758717364979">Right to rectification &#x2F;Δικαίωμα διόρθωσης</td><td class=" u-tL" headers="C220975156503364979">Δικαίωμα διόρθωσης: Εάν τα προσωπικά δεδομένα είναι ανακριβή ή ελλιπή, οι πελάτες έχουν το δικαίωμα να ζητήσουν τη διόρθωση&#x2F;συμπλήρωση των δεδομένων από τον υπεύθυνο επεξεργασίας, χωρίς αδικαιολόγητη καθυστέρηση.
+
+Right to rectification: **If personal data is inaccurate or incomplete, customers have the right to have the data rectified&#x2F;completed, by the controller, without undue delay**.</td></tr><tr ><td headers="LINK"><a href="&#x2F;ords203&#x2F;ucydw&#x2F;r&#x2F;service-cataloque187&#x2F;add-user-right&#x3F;p6_application_software_gdpr_user_rights_id&#x3D;4&#x26;clear&#x3D;RP&#x26;session&#x3D;5228327135767&#x26;cs&#x3D;3R0Kp_Z4qrLH-VvTrxfcO0Emwfuz9Tba_ND6awc1nK0gcvw1PYrt0z76D45bY3zlvv9Aq-UYForMA7l_pbGgsBA" ><span aria-label="Edit"><span class="fa fa-edit" aria-hidden="true" title="Edit"></span></span></a></td><td class=" u-tL" headers="C220974758717364979">Right to object &#x2F; Δικαίωμα αντίρρησης</td><td class=" u-tL" headers="C220975156503364979">Δικαίωμα αντίρρησης: Τα φυσικά πρόσωπα έχουν το απόλυτο δικαίωμα να αντιταχθούν στην επεξεργασία των προσωπικών τους δεδομένων, εάν πρόκειται για σκοπούς άμεσου μάρκετινγκ
+
+Right to object: **Individuals have the absolute right to object to the processing of their personal data if it is for direct marketing purposes**</td></tr><tr ><td headers="LINK"><a href="&#x2F;ords203&#x2F;ucydw&#x2F;r&#x2F;service-cataloque187&#x2F;add-user-right&#x3F;p6_application_software_gdpr_user_rights_id&#x3D;5&#x26;clear&#x3D;RP&#x26;session&#x3D;5228327135767&#x26;cs&#x3D;3lfqtc1Ur9vKfkMaHLDZSrCHQceELyFEmTuKbAegkK9erc8taIY9pVtvHO6Q_W-f6s4jOCWImEk-2TfRz8azoOg" ><span aria-label="Edit"><span class="fa fa-edit" aria-hidden="true" title="Edit"></span></span></a></td><td class=" u-tL" headers="C220974758717364979">Right to ensure &#x2F; Δικαίωμα διασφάλισης</td><td class=" u-tL" headers="C220975156503364979">Δικαίωμα διασφάλισης: Τα άτομα μπορούν να υποβάλουν αίτημα διαγραφής προφορικά ή γραπτά. Έχετε ένα μήνα για να απαντήσετε σε ένα αίτημα. Το δικαίωμα δεν είναι απόλυτο και ισχύει μόνο σε ορισμένες περιπτώσεις.
+
+Right to ensure &#x2F;erasure is also known as &#x27;**the right to be forgotten**&#x27;: Individuals can make a request for erasure verbally or in writing. You have one month to respond to a request. 
+
+The right is not absolute and only applies in certain circumstances.</td></tr><tr ><td headers="LINK"><a href="&#x2F;ords203&#x2F;ucydw&#x2F;r&#x2F;service-cataloque187&#x2F;add-user-right&#x3F;p6_application_software_gdpr_user_rights_id&#x3D;6&#x26;clear&#x3D;RP&#x26;session&#x3D;5228327135767&#x26;cs&#x3D;35JuywtSgqRUZDCiG-2Ah7SoF946Ktp6r03AbhX3bnq-uqr9q5R4c9-MGvy7vySLnUhU-OpnsbTBJ7YMsnyISUA" ><span aria-label="Edit"><span class="fa fa-edit" aria-hidden="true" title="Edit"></span></span></a></td><td class=" u-tL" headers="C220974758717364979">right to restriction &#x2F; Δικαίωμα περιορισμού</td><td class=" u-tL" headers="C220975156503364979">Δικαίωμα περιορισμού: Τα άτομα έχουν το δικαίωμα να ζητήσουν τον περιορισμό ή την απόκρυψη των προσωπικών τους δεδομένων. Όταν η επεξεργασία είναι περιορισμένη, επιτρέπεται να αποθηκεύετε τα προσωπικά δεδομένα, αλλά όχι να τα χρησιμοποιείτε. Αυτό δεν είναι απόλυτο δικαίωμα και ισχύει μόνο σε ορισμένες περιπτώσεις.
+
+Right to restriction: **Individuals have the right to request the restriction or suppression of their personal data**. When processing is restricted, you are permitted to store the personal data, but not use it.
+
+This is not an absolute right and only applies in certain circumstances.</td></tr><tr ><td headers="LINK"><a href="&#x2F;ords203&#x2F;ucydw&#x2F;r&#x2F;service-cataloque187&#x2F;add-user-right&#x3F;p6_application_software_gdpr_user_rights_id&#x3D;7&#x26;clear&#x3D;RP&#x26;session&#x3D;5228327135767&#x26;cs&#x3D;3nVeJDIhACtQchC9Ee8sX1TYtMhDGYIJQH1mKDDKQceJD7Gcj62VASwUDaZzsP0G1df9t1j0K4eBm_eGNhw3H2g" ><span aria-label="Edit"><span class="fa fa-edit" aria-hidden="true" title="Edit"></span></span></a></td><td class=" u-tL" headers="C220974758717364979">Right to data portability &#x2F; Δικαίωμα φορητότητας δεδομένων</td><td class=" u-tL" headers="C220975156503364979">Δικαίωμα φορητότητας δεδομένων: Eπιτρέπει στα άτομα να αποκτούν και να επαναχρησιμοποιούν τα προσωπικά τους δεδομένα για δικούς τους σκοπούς σε διάφορες υπηρεσίες. Τους επιτρέπει να μετακινούν, να αντιγράφουν ή να μεταφέρουν προσωπικά δεδομένα εύκολα από ένα περιβάλλον πληροφορικής σε άλλο με ασφαλή και ασφαλή τρόπο, χωρίς να επηρεάζεται η χρηστικότητά τους.
+
+Right to data portability: Allows individuals to obtain and reuse their personal data for their own purposes across different services. It allows them to move, copy or transfer personal data easily from one IT environment to another in a safe and secure way, without affecting its usability.</td></tr><tr ><td headers="LINK"><a href="&#x2F;ords203&#x2F;ucydw&#x2F;r&#x2F;service-cataloque187&#x2F;add-user-right&#x3F;p6_application_software_gdpr_user_rights_id&#x3D;9&#x26;clear&#x3D;RP&#x26;session&#x3D;5228327135767&#x26;cs&#x3D;363EtWS2DE-ks6T6HFye4Ql94R1JxZ2aptr5aLrXJa6Xh1exqJqsCFk7kUdXfAGnfv_-IHZx17Y_3847NeiAqbA" ><span aria-label="Edit"><span class="fa fa-edit" aria-hidden="true" title="Edit"></span></span></a></td><td class=" u-tL" headers="C220974758717364979">Right in relation to automated decision making &amp; profing &#x2F; Δικαιώματα αυτοματοποιημένη λήψης αποφάσ</td><td class=" u-tL" headers="C220975156503364979">Δικαιώματα σε σχέση με την αυτοματοποιημένη λήψη αποφάσεων: Το δικαίωμα να μην υπόκεινται σε απόφαση που βασίζεται αποκλειστικά στην αυτοματοποιημένη επεξεργασία. Η επεξεργασία είναι «αυτοματοποιημένη» όπου πραγματοποιείται χωρίς ανθρώπινη παρέμβαση και όπου παράγει νομικά αποτελέσματα ή επηρεάζει σημαντικά τον πελάτη
+
+Right in relation to automated decision making and profing: The right to not be subject to a decision based solely on automated processing. Processing is “automated” where it is carried out without human intervention and where it produces legal effects or significantly affects the customer.</td></tr></table></div><div class="a-IRR-paginationWrap a-IRR-paginationWrap--bottom"><ul class="a-IRR-pagination"><li aria-hidden="true" class="a-IRR-pagination-item is-disabled"></li><li class="a-IRR-pagination-item"><span class="a-IRR-pagination-label">                   1 -                    8</span></li><li aria-hidden="true" class="a-IRR-pagination-item is-disabled"></li></ul></div></div></div></div></div><div class="a-IRR-sortWidget" id="R220973880553364980_sort_widget" style="display:none;"><ul class="a-IRR-sortWidget-actions" id="R220973880553364980_sort_widget_actions"><li class="a-IRR-sortWidget-actions-item" id="R220973880553364980_sort_widget_action_up"><button class="a-Button a-IRR-button a-IRR-sortWidget-button" type="button" title="Sort Ascending" data-option="up"><span class="a-Icon icon-irr-sort-asc"></span></button></li><li class="a-IRR-sortWidget-actions-item" id="R220973880553364980_sort_widget_action_down"><button class="a-Button a-IRR-button a-IRR-sortWidget-button" type="button" title="Sort Descending" data-option="down"><span class="a-Icon icon-irr-sort-desc"></span></button></li><li class="a-IRR-sortWidget-actions-item" id="R220973880553364980_sort_widget_action_hide"><button class="a-Button a-IRR-button a-IRR-sortWidget-button" type="button" title="Hide Column" data-option="hide"><span class="a-Icon icon-irr-remove-col"></span></button></li><li class="a-IRR-sortWidget-actions-item" id="R220973880553364980_sort_widget_action_break"><button class="a-Button a-IRR-button a-IRR-sortWidget-button" type="button" title="Control Break" data-option="break"><span class="a-Icon icon-irr-control-break"></span></button></li><li class="a-IRR-sortWidget-actions-item" id="R220973880553364980_sort_widget_action_help"><button class="a-Button a-IRR-button a-IRR-sortWidget-button" type="button" title="Column Information" data-option="help"><span class="a-Icon icon-irr-help"></span></button></li><li class="a-IRR-sortWidget-actions-item" id="R220973880553364980_sort_widget_action_computation"><button class="a-Button a-IRR-button a-IRR-sortWidget-button" type="button" title="Compute" data-option="computation"><span class="a-Icon icon-irr-calculator"></span></button></li></ul><div class="a-IRR-sortWidget-help" id="R220973880553364980_sort_widget_help"></div><div class="a-IRR-sortWidget-search" id="R220973880553364980_sort_widget_search"><label for="R220973880553364980_sort_widget_search_field" class="a-IRR-sortWidget-searchLabel"><span class="u-VisuallyHidden">Search</span></label><input id="R220973880553364980_sort_widget_search_field" class="a-IRR-sortWidget-searchField" type="text" placeholder="Filter..." /><div class="a-IRR-sortWidget-rows" id="R220973880553364980_sort_widget_rows"></div></div></div></div></div>
+</div>
+</div>
+</div></div>
+      </main>
+      <footer class="t-Footer" id="t_Footer" role="contentinfo">
+        <div class="t-Footer-body">
+          <div class="t-Footer-content"></div>
+          <div class="t-Footer-apex">
+            <div class="t-Footer-version">Release 1.0</div>
+            <div class="t-Footer-customize"></div>
+            
+          </div>
+        </div>
+        <div class="t-Footer-top">
+          <a href="#top" class="t-Footer-topButton" id="t_Footer_topButton"><span class="a-Icon icon-up-chevron"></span></a>
+        </div>
+      </footer>
+    </div>
+  </div>
+</div>
+<div class="t-Body-inlineDialogs" id="t_Body_inlineDialogs"></div><input type="hidden" id="pPageFormRegionChecksums" value="&#x5B;&#x5D;">
+<input type="hidden" id="pPageItemsRowVersion" value="" /><input type="hidden" id="pPageItemsProtected" value="&#x2F;VUBZPYWPcRbTUo5MlbcLTwzaemyyduRbsdhi3yMK6WdLfCf3bRIB9xLTb5EHmb6Xg_TW9DZ1DIvSk8dQAIfGJQ" /></form>
+<div id="apexDevToolbar" class="a-DevToolbar a-DevToolbar--bottom" style="display:none"><h1 class="u-VisuallyHidden">Developer Toolbar</h1><ul class="a-DevToolbar-list">
+<li><button id="apexDevToolbarHome" type="button" class="a-Button a-Button--devToolbar" title="Oracle APEX Home" aria-label="Home" data-link="f?p=4500:1000:4697528504785">
+<span class="a-Icon icon-home" aria-hidden="true"></span>
+<span class="a-DevToolbar-buttonLabel">Home</span>
+</button></li>
+<li><button id="apexDevToolbarApp" type="button" class="a-Button a-Button--devToolbar" title="App 187" aria-label="App 187" data-link="f?p=4000:1:4697528504785::NO:1,RP:FB_FLOW_ID,FB_FLOW_PAGE_ID,F4000_P1_FLOW,F4000_P1_PAGE:187,5,187,5">
+<span class="a-Icon icon-edit-app" aria-hidden="true"></span>
+<span class="a-DevToolbar-buttonLabel">App 187</span>
+</button></li>
+<li><button id="apexDevToolbarPage" type="button" class="a-Button a-Button--devToolbar" title="Page 5" aria-label="Page 5" data-link="f?p=4000:4500:4697528504785::NO:1:FB_FLOW_ID,FB_FLOW_PAGE_ID,F4000_P1_FLOW,F4000_P1_PAGE:187,5,187,5">
+<span class="a-Icon icon-edit-page-alt" aria-hidden="true"></span>
+<span class="a-DevToolbar-buttonLabel">Page 5</span>
+</button></li>
+<li><button id="apexDevToolbarSession" type="button" class="a-Button a-Button--devToolbar" title="Session" aria-label="Session" data-link="f?p=4000:34:4697528504785:PAGE:NO:34:F4000_P34_SESSION,F4000_P34_FLOW,F4000_P34_PAGE,FB_FLOW_ID:5228327135767,187,5,187">
+<span class="a-Icon icon-page-session" aria-hidden="true"></span>
+<span class="a-DevToolbar-buttonLabel">Session</span>
+</button></li>
+<li><button id="apexDevToolbarViewDebug" type="button" class="a-Button a-Button--devToolbar" title="View Debug" aria-label="View Debug" data-link="f?p=4000:19:4697528504785:::RIR,19:IR_APPLICATION_ID,IR_PAGE_ID:187,5">
+<span class="a-Icon icon-page-debug" aria-hidden="true"></span>
+<span class="a-DevToolbar-buttonLabel">View Debug</span>
+</button></li>
+<li><button id="apexDevToolbarDebug" type="button" class="a-Button a-Button--devToolbar" title="Debug" aria-label="Debug" data-link="/ords203/ucydw/r/service-cataloque187/manage-user-rights?debug=YES&session=5228327135767">
+<span class="a-Icon icon-debug" aria-hidden="true"></span>
+<span class="a-DevToolbar-buttonLabel">Debug</span>
+</button></li>
+<li><button id="apexDevToolbarInfo" type="button" class="a-Button a-Button--devToolbar js-menuButton" title="Info" aria-label="Info" data-menu="apexDevToolbarInfoMenu">
+<span class="a-Icon icon-info" aria-hidden="true"></span>
+<span class="a-DevToolbar-buttonLabel">Info</span>
+</button></li>
+<li><button id="apexDevToolbarQuickEdit" type="button" class="a-Button a-Button--devToolbar" title="Quick Edit" aria-label="Quick Edit" data-link="f?p=4000:4500:4697528504785::NO:1,4500:FB_FLOW_ID,FB_FLOW_PAGE_ID,F4000_P1_FLOW,F4000_P1_PAGE:187,5,187,5">
+<span class="a-Icon icon-quick-edit" aria-hidden="true"></span>
+<span class="a-DevToolbar-buttonLabel">Quick Edit</span>
+</button></li>
+<li><button id="apexDevCustomize" type="button" class="a-Button a-Button--devToolbar js-menuButton" title="Customize" aria-label="Customize" data-menu="apexDevCustomizeMenu">
+<span class="a-Icon icon-theme-roller" aria-hidden="true"></span>
+<span class="a-DevToolbar-buttonLabel">Customize</span>
+</button></li>
+<li><button id="apexDevToolbarOptions" type="button" class="a-Button a-Button--devToolbar js-menuButton" title="Developer Toolbar Options" aria-label="Developer Toolbar Options" data-menu="apexDevToolbarOptionsMenu">
+<span class="a-Icon icon-gear" aria-hidden="true"></span>
+</button></li>
+</ul></div><div id="apexDevCustomizeMenu"></div><div id="apexDevToolbarOptionsMenu"></div><div id="apexDevToolbarInfoMenu"></div>
+
+
+<script>
+var apex_img_dir = "\u002Fimages\u002F";
+var apex = {env: {APP_USER: "CANTON05",APP_ID: "187",APP_PAGE_ID: "5",APP_SESSION: "5228327135767",APP_FILES: "ucydw\u002Fr\u002F187\u002Ffiles\u002Fstatic\u002Fv3\u002F",WORKSPACE_FILES: "ucydw\u002Fr\u002Ffiles\u002Fstatic\u002Fv1\u002F",APEX_VERSION: "21.2.0"}};
+</script>
+<script src="/images/libraries/apex/minified/desktop_all.min.js?v=21.2.0"></script>
+<script src="wwv_flow.js_messages?p_app_id=187&p_lang=en&p_version=21.2.0-19866033447&p_builder=Y"></script>
+
+
+<script src="/images/themes/theme_42/21.2/js/theme42.min.js?v=21.2.0"></script>
+
+
+
+  
+
+
+<script src="/images/libraries/apex/minified/widget.interactiveReport.min.js?v=21.2.0"></script>
+<script src="/images/libraries/apex/minified/interactiveGrid.min.js?v=21.2.0"></script>
+<script src="/images/libraries/apex/minified/widget.stickyTableHeader.min.js?v=21.2.0"></script>
+<script src="/images/libraries/apex/minified/widget.stickyWidget.min.js?v=21.2.0"></script>
+<script src="/images/libraries/apex/minified/widget.colorpicker.min.js?v=21.2.0"></script>
+<script src="/images/apex_ui/js/minified/devToolbar.min.js?v=21.2.0"></script>
+
+<script src="/images/libraries/oraclejet/11.0.0/js/libs/require/require.js?v=21.2.0"></script>
+<script>
+define("jquery",[],function(){return apex.jQuery});
+define("hammerjs",[],function(){return Hammer});
+define("jqueryui-amd/widget",[],function(){return apex.jQuery.widget});
+define("jqueryui-amd/focusable",[],function(){return apex.jQuery.ui.focusable});
+define("jqueryui-amd/widgets/draggable",[],function(){return apex.jQuery.ui.draggable});
+define("jqueryui-amd/widgets/sortable",[],function(){return apex.jQuery.ui.sortable});
+define("jqueryui-amd/widgets/mouse",[],function(){return apex.jQuery.ui.mouse});
+define("jqueryui-amd/plugin",[],function(){return apex.jQuery.ui.plugin});
+define("jqueryui-amd/position",[],function(){return apex.jQuery.ui.position});
+define("jqueryui-amd/keycode",[],function(){return apex.jQuery.ui.keyCode});
+define("jqueryui-amd/tabbable",[],function(){return { tabbable: function(){ apex.debug.info("Unexpected call: jQuery UI tabbable function"); }}});
+define("jqueryui-amd/unique-id",[],function(){return apex.jQuery.fn});
+</script>
+<script src="/images/libraries/apex/minified/requirejs.jetConfig.min.js?v=21.2.0"></script>
+<script src="/images/libraries/apex/minified/jetCommonBundle.min.js?v=21.2.0"></script>
+<script src="/images/libraries/apex/minified/chartBundle.min.js?v=21.2.0"></script>
+<script type="text/javascript">
+apex.session.initTimeouts(180,{"idle_time_ms":3598000.00000000000000000000000000000001,"life_time_ms":27947000,"max_idle_time_ms":3600000},'\u002Fords203\u002Fucydw\u002Fr\u002Fservice-cataloque187\u002Fhome','\u002Fords203\u002Fucydw\u002Fr\u002Fservice-cataloque187\u002Fhome');
+apex.jQuery( function() {
+apex.page.init( this, function() {
+try {
+(function(){apex.jQuery('#R220973880553364980_ir').interactiveReport({"regionId":"R220973880553364980","helpLink":"wwv_flow_utilities.show_ir_help?p_app_id=187\u0026p_worksheet_id=220974251901364980\u0026p_lang=en","subscription":false,"lazyLoading":false,"ajaxIdentifier":"UkVHSU9OIFRZUEV-fjIyMDk3Mzg4MDU1MzM2NDk4MA\u002FYyMH_pHA2aPCrv6A2dw1HdyEPlT4xd4Q7x1u7sxRhASoEfujvldovGNLSakQSbxgcAakbBE9y1sXXr0aJd3ecw"});})();
+} catch(e) {apex.debug.error(e)};
+apex.initDevToolbar([{"pageId":"5","typeId":"5110","id":"220973880553364980","domId":"R220973880553364980"},{"pageId":"5","typeId":"5130","id":"220976358006364975","domId":"B220976358006364975"},{"pageId":"5","typeId":"7040","id":"220974758717364979","domId":"C220974758717364979"},{"pageId":"5","typeId":"7040","id":"220975156503364979","domId":"C220975156503364979"}],"FOCUS",{"autoHide":"Auto Hide","iconsOnly":"Show Icons Only","noBuilderMessage":"This functionality requires the Application Express App Builder window to be open. Do you want to open the Builder in this window?","showPerf":"Show Page Timing","perfTitle":"Page Performance Timing","clear":"Clear","copy":"Copy","gridDebugOn":"Show Layout Columns","gridDebugOff":"Hide Layout Columns","debugLevel":"Default Debug Level","debugLevel4":"Info (default)","debugLevel6":"App Trace","debugLevel9":"Full Trace","debugButtonLabel":"Debug (\u00250)","logoEditor":"Edit Logo","themeRoller":"Theme Roller","display":"Display Position","displayTop":"Top","displayLeft":"Left","displayBottom":"Bottom","displayRight":"Right"},42);
+apex.jQuery.when.apply( apex.jQuery, apex.page.loadingDeferreds ).done(function() {
+try {
+apex.theme42.initializePage.noSideCol();
+
+apex.page.warnOnUnsavedChanges();
+} finally {
+apex.event.trigger(apex.gPageContext$,'apexreadyend');
+};
+});
+});
+});apex.pwa.registerServiceWorker('\u002Fords203\u002Fucydw\u002Fr\u002Fservice-cataloque187\u002Fsw.js?v=21.2.0-19866033447\u0026lang=en');
+</script>
+
+</body>
+</html>
